@@ -9,9 +9,9 @@ A localização possui país e região. Cada perfil de pessoa pode possuir uma l
 Certificação possui nome e descrição. Cada perfil de pessoa e cada perfil de organização podem ter uma ou mais certificações. Cada certificação pode estar relacionada a diferentes perfis. 
 Formação possui nome, descrição, data de início, data de fim e instituição. Cada perfil de pessoa pode ter uma ou mais formações. Cada formação pode estar relacionada a diferentes perfis de pessoa.
 Um perfil pode se conectar a outros perfils, e essa conexão é simétrica
-Um perfil pode publicar várias postagem
-Uma postagem tem foto, descrição, hashtags, numero de comentários, numero de compartilhamentos, data de publicação, likes
+Um perfil pode publicar várias postagem
+Uma postagem tem foto, descrição, hashtags, numero de comentários, numero de compartilhamentos, data de publicação, likes
 Um comentário é em relação a um outro comentário ou a uma postagem, que pode ter vários comentários-filhos
 Um comentário tem data, texto do comentário
-um comentário é feito por um perfil, que pode fazer um ou mais comentários
-Um grupo deve incluir um ou mais perfil, e um perfil pode participar de um ou mais grupos. Um grupo tem data de criação
+um comentário é feito por um perfil, que pode fazer um ou mais comentários
+Um grupo deve incluir um ou mais perfil, e um perfil pode participar de um ou mais grupos. Um grupo tem data de criação
